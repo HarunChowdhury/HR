@@ -1,0 +1,10 @@
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\bin\Debug\SchoolManagement.Model.dll.config
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\bin\Debug\SchoolManagement.Model.dll
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\bin\Debug\SchoolManagement.Model.pdb
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\bin\Debug\EntityFramework.dll
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\bin\Debug\EntityFramework.SqlServer.dll
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\bin\Debug\EntityFramework.xml
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\bin\Debug\EntityFramework.SqlServer.xml
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\obj\Debug\SchoolManagement.Model.dll
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\obj\Debug\SchoolManagement.Model.pdb
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagement.Model\obj\Debug\SchoolManagement.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagementConsoleApplication.exe.config
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagementConsoleApplication.exe
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagementConsoleApplication.pdb
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagement.Manager.dll
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagement.Model.dll
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\EntityFramework.dll
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagement.Manager.pdb
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagement.Model.pdb
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\EntityFramework.xml
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.csprojResolveAssemblyReference.cache
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.exe
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.pdb
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\App.config
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
+I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
