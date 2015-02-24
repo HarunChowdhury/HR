@@ -13,3 +13,6 @@ I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\o
 I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\App.config
 I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\EntityFramework.SqlServer.dll
 I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lab1\Desktop\Ha\HR\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagementConsoleApplication.exe.config
+C:\Users\Lab1\Desktop\Ha\HR\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.exe
+C:\Users\Lab1\Desktop\Ha\HR\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.pdb
