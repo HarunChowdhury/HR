@@ -37,6 +37,23 @@ namespace SchoolManagementConsoleApplication
                 Console.WriteLine("Name :" + aStudent.Name + " " + aStudent.Address);
             }
 
+            foreach (var aStudent in students)
+            {
+                Console.WriteLine("Name :" + aStudent.Name + " " + aStudent.Address);
+            }
+
+            {
+                Console.WriteLine("Name :" + aStudent.Name + " " + aStudent.Address);
+            }
+
+            {
+                Console.WriteLine("Name :" + aStudent.Name + " " + aStudent.Address);
+            }
+
+            {
+                Console.WriteLine("Name :" + aStudent.Name + " " + aStudent.Address);
+            }
+
            // Console.WriteLine("Save Data Successfull");
             Console.ReadKey();
 

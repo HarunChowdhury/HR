@@ -16,3 +16,6 @@ I:\Jobs Preparatons\Source\SchoolManagement\SchoolManagementConsoleApplication\b
 C:\Users\Lab1\Desktop\Ha\HR\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagementConsoleApplication.exe.config
 C:\Users\Lab1\Desktop\Ha\HR\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.exe
 C:\Users\Lab1\Desktop\Ha\HR\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.pdb
+C:\Users\Lab1\Desktop\DD\HR\SchoolManagement\SchoolManagementConsoleApplication\bin\Debug\SchoolManagementConsoleApplication.exe.config
+C:\Users\Lab1\Desktop\DD\HR\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.exe
+C:\Users\Lab1\Desktop\DD\HR\SchoolManagement\SchoolManagementConsoleApplication\obj\Debug\SchoolManagementConsoleApplication.pdb
